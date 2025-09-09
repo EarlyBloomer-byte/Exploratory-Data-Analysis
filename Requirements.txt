@@ -1,0 +1,8 @@
+# These are the requirements for the lesson
+# You can install everything using:
+# pip install -r requirements.txt
+
+seaborn
+pandas
+numpy
+matplotlib
