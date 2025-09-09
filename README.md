@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-This repository goes into the basics of data exploration.
+This repository dives into the very basics of data exploration.
